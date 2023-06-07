@@ -1,0 +1,3 @@
+from origen import *
+
+miEdad()
