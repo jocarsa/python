@@ -1,0 +1,1 @@
+= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\006-Funciones\001-declaracion.py

@@ -1,0 +1,2 @@
+= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\005-Estructuras de control del flujo de la ejecución\002-Estructuras condicionales\004-elif.py
+Hoy es el segundo peor día de la semana
