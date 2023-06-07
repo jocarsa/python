@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\005-Proyecto agenda-Salir del programa\agenda.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\005-Proyecto agenda-Salir del programa\agenda.py
 Programa agenda
 
         Selecciona una opción:

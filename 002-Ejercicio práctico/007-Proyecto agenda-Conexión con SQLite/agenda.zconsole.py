@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\007-Proyecto agenda-Conexión con SQLite\agenda.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\007-Proyecto agenda-Conexión con SQLite\agenda.py
 Programa agenda
 
         Selecciona una opción:

@@ -1,1 +1,1 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\009-Persistencia\001-Archivos\001-escribir.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\009-Persistencia\001-Archivos\001-escribir.py

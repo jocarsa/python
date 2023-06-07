@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\003-Operadores\003-comparacion.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\003-Operadores\003-comparacion.py
 Operador de menor que:
 False
 Operador de mayor que:

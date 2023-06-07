@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py
 Programa agenda
 
         Selecciona una opción:
@@ -30,12 +30,12 @@ Operación finalizada, volvemos al menú:
         4.-Eliminar registros 
     
 Traceback (most recent call last):
-  File "C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 26, in <module>
+  File "C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 26, in <module>
     menu()
-  File "C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 24, in menu
+  File "C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 24, in menu
     menu()
-  File "C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 24, in menu
+  File "C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 24, in menu
     menu()
-  File "C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 11, in menu
+  File "C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\004-Proyecto agenda-Menu en funcion\agenda.py", line 11, in menu
     opcion = input()
 KeyboardInterrupt

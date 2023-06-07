@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\016-Proyecto agenda-No sobreescribir si está en blanco\agenda.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\016-Proyecto agenda-No sobreescribir si está en blanco\agenda.py
 Programa agenda
 
         Selecciona una opción:

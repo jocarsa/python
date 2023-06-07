@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\004-Estructuras de datos\001-Variables\004-abreviados.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\004-Estructuras de datos\001-Variables\004-abreviados.py
 Operador abreviado de incremento:
 Tu edad ahora es de: 46
 Operador abreviado de decremento:

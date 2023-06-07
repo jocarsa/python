@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\003-Operadores\002-aritmeticos.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\003-Operadores\002-aritmeticos.py
 Operador de suma:
 7
 Operador de resta:

@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\001-Fundamentos de Python\005-Estructuras de control del flujo de la ejecución\001-Estructuras de bucle\002-for con incremento.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\005-Estructuras de control del flujo de la ejecución\001-Estructuras de bucle\002-for con incremento.py
 hoy es el dia 1 del mes
 hoy es el dia 3 del mes
 hoy es el dia 5 del mes

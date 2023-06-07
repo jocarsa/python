@@ -1,4 +1,4 @@
-= RESTART: C:\Users\Alvaro\Documents\GitHub\python\002-Ejercicio práctico\010-Proyecto agenda-Eliminar\agenda.py
+= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\002-Ejercicio práctico\010-Proyecto agenda-Eliminar\agenda.py
 Programa agenda
 
         Selecciona una opción:
