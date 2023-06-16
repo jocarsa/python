@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+            body{
+                font-family:sans-serif;
+                padding:50px;
+                text-align:center;
+            } 
+            h3{
+                font-size:14px;
+                text-align:left;
+                border-top:1px solid grey;
+                padding-top:10px;
+            }
+            h4{
+                font-size:12px;
+                text-align:left;
+            }
+            a{text-align:left;}
+        </style>
+    </head>
+    <body>
+        <h1>Buscador</h1>
+         {% block contenido %}
+            {{contenido | safe}}
+        {% endblock %}
+    </body>
+</html>

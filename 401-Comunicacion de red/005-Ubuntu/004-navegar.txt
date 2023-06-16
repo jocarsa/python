@@ -1,0 +1,6 @@
+ls
+cd flask
+ls
+python app.py
+sudo apt-get install python3-bs4
+sudo apt-get install python3-flask
