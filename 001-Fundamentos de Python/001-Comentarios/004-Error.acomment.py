@@ -1,3 +1,0 @@
- De la misma forma que ha ocurrido anteriormente con el comentario de una única línea, deberemos tener cuidado con todo lo que el texto que escribamos fuera del comentario multilínea, ya que, al igual que ha ocurrido antes, todo aquel texto que no esté dentro de un comentario, se considerará código fuente, y su ejecución estará sujeta a las reglas de sintaxis del lenguaje de programación Python.
-
-El ejemplo que se presenta a continuación, de nuevo arrojará un error, ya que el intérprete será incapaz de validar los sintaxis de la línea que queda fuera del comentario. 

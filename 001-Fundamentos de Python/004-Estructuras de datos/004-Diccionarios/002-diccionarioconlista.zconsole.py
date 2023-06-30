@@ -1,2 +1,0 @@
-= RESTART: C:\Users\JoseVicenteCarratala\Documents\GitHub\python\001-Fundamentos de Python\004-Estructuras de datos\004-Diccionarios\002-diccionarioconlista.py
-[{'nombre': 'Jose Vicente', 'email': 'info@josevicentecarratala.com', 'telefono': '12345'}, {'nombre': 'Juan', 'email': 'info@juan.com', 'telefono': '12345'}, {'nombre': 'Jorge', 'email': 'info@jorge.com', 'telefono': '12345'}]
