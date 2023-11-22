@@ -1,0 +1,19 @@
+La historia de Python es interesante y llena de acontecimientos importantes que han llevado a su éxito como uno de los lenguajes de programación más populares del mundo. A continuación, te presento un resumen de los hitos clave en la evolución de Python:
+
+1. Concepción y creación: Python fue concebido a finales de los años 80 por Guido van Rossum, un programador holandés. Comenzó a trabajar en el proyecto en diciembre de 1989 mientras trabajaba en el Centro de Matemáticas y Ciencias de la Computación (CWI) en los Países Bajos. El nombre "Python" fue inspirado por la afición de Guido a la serie de televisión británica "Monty Python's Flying Circus".
+
+2. Versión 0.9.0: La primera versión pública de Python, la 0.9.0, fue lanzada en febrero de 1991. Aunque esta versión era rudimentaria, ya incluía algunas de las características fundamentales que definen Python hasta el día de hoy, como funciones, módulos y excepciones.
+
+3. Versión 1.0: Python alcanzó la versión 1.0 en enero de 1994. En esta versión, se pulieron muchas características, y el lenguaje se estabilizó considerablemente.
+
+4. Python 2.x: A lo largo de los años siguientes, Python continuó evolucionando con mejoras y actualizaciones. La rama principal de desarrollo se mantuvo en la serie 2.x, con diversas versiones, siendo Python 2.7 la última de esta serie, lanzada en julio de 2010.
+
+5. Python 3.x: En diciembre de 2008, se lanzó Python 3.0, una versión importante que trajo consigo cambios significativos y mejoras en el lenguaje. Sin embargo, estos cambios también resultaron en la incompatibilidad con el código escrito en la serie 2.x, lo que generó una transición más lenta hacia Python 3.x. A lo largo de los años, la comunidad trabajó para actualizar bibliotecas y código existente para ser compatible con Python 3.
+
+6. Popularidad creciente: A medida que pasaba el tiempo, Python ganó popularidad gracias a su legibilidad, simplicidad y facilidad de uso. Su comunidad activa, junto con una amplia gama de bibliotecas y frameworks, atrajo a desarrolladores de diversas áreas, incluyendo la ciencia de datos, inteligencia artificial, desarrollo web y automatización, entre otros.
+
+7. Lanzamientos periódicos: Python comenzó a seguir un ciclo de lanzamiento periódico, con actualizaciones importantes cada 18-24 meses, lo que aseguró una evolución continua y una mejor planificación para la comunidad de desarrolladores.
+
+8. Python en la actualidad: Hasta mi última actualización en septiembre de 2021, Python seguía siendo uno de los lenguajes de programación más populares y utilizados en todo el mundo. La versión más reciente era Python 3.9, y la comunidad de Python continuaba trabajando en mejoras y en el desarrollo de Python 3.10, el siguiente hito importante.
+
+En resumen, Python ha recorrido un largo camino desde su creación a fines de los 80. Ha crecido hasta convertirse en un lenguaje de programación versátil y poderoso, utilizado en una amplia variedad de aplicaciones y proyectos en todo el mundo. Su diseño simple y legible, junto con una comunidad comprometida, han sido factores clave en su éxito continuo.

@@ -1,0 +1,27 @@
+En Python, los comentarios son líneas de código que se utilizan para proporcionar explicaciones, aclaraciones o anotaciones dentro del código fuente. Estos comentarios son ignorados por el intérprete de Python y no afectan el funcionamiento del programa. Los comentarios son útiles para que los desarrolladores puedan entender mejor el código y para documentar su funcionamiento.
+
+En Python, hay dos formas principales de escribir comentarios:
+
+1. Comentarios de una línea: Se utilizan para escribir comentarios breves en una sola línea. Se indican con el símbolo de almohadilla (#) y todo lo que viene después de este carácter se considera comentario.
+
+Ejemplo:
+
+```python
+# Este es un comentario de una línea
+variable = 42  # Otro comentario en la misma línea
+```
+
+2. Comentarios de varias líneas: Se utilizan cuando se necesita escribir comentarios más extensos que ocupan varias líneas. Python no tiene un formato de comentario de bloque como algunos otros lenguajes de programación, pero se puede lograr mediante varias líneas de comentarios de una sola línea.
+
+Ejemplo:
+
+```python
+"""
+Este es un comentario de varias líneas.
+Puede extenderse por varias líneas sin problema.
+Es útil para documentar funciones o bloques de código.
+"""
+variable = 42
+```
+
+Es importante utilizar comentarios de manera adecuada y mantenerlos actualizados a medida que el código evoluciona. Los comentarios claros y concisos ayudan a otros desarrolladores a entender el propósito y el funcionamiento del código, lo que facilita el mantenimiento y la colaboración en proyectos.

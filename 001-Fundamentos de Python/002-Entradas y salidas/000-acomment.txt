@@ -1,0 +1,47 @@
+En Python, las entradas y salidas son fundamentales para interactuar con el usuario y permitir que un programa tome datos de entrada, procese esa información y muestre resultados o mensajes al usuario. Aquí te explico cómo manejar las entradas y salidas en Python:
+
+**Entrada (Input):**
+Para solicitar datos al usuario, puedes utilizar la función `input()`. Esta función lee una línea de texto ingresada por el usuario desde la consola y devuelve esa cadena de texto como resultado. Puedes almacenar esta entrada en una variable para utilizarla posteriormente en tu programa.
+
+Ejemplo:
+
+```python
+nombre = input("Ingresa tu nombre: ")
+print("Hola,", nombre)
+```
+
+En este ejemplo, la función `input()` solicita al usuario que ingrese su nombre, y luego, la variable `nombre` almacenará el texto ingresado por el usuario. Luego, el programa imprime un mensaje de saludo utilizando el nombre ingresado.
+
+**Salida (Output):**
+Para mostrar resultados, mensajes o datos al usuario, puedes utilizar la función `print()`. Esta función imprimirá el contenido que le pases como argumento en la consola.
+
+Ejemplo:
+
+```python
+nombre = "Juan"
+edad = 30
+print("Nombre:", nombre)
+print("Edad:", edad)
+```
+
+En este ejemplo, utilizamos la función `print()` para mostrar el nombre y la edad en la consola. La función `print()` puede recibir múltiples argumentos separados por comas, y los imprimirá en la misma línea separados por espacios.
+
+También puedes formatear la salida utilizando cadenas de formato, como el método `format()` o utilizando f-strings en Python 3.6+.
+
+Ejemplo con `format()`:
+
+```python
+nombre = "María"
+edad = 25
+print("Nombre: {}, Edad: {}".format(nombre, edad))
+```
+
+Ejemplo con f-string:
+
+```python
+nombre = "Carlos"
+edad = 35
+print(f"Nombre: {nombre}, Edad: {edad}")
+```
+
+En resumen, las entradas y salidas son esenciales para interactuar con el usuario y para mostrar resultados o mensajes en un programa Python. La función `input()` se utiliza para obtener entradas del usuario, mientras que la función `print()` se usa para mostrar salidas en la consola.
